@@ -4,7 +4,7 @@ I am an adjunct professor of Economics at <a href="https://udesc.org" target="_b
 
 - 🌱 I'm interested in macroeconomics, monetary/fiscal policy mix, DSGE/HANK models, agent-based modeling
 - 💻 You can read more about me and my work on my <a href="https://pvfonseca.github.io" target="_blank">website</a>
-- 📫 How to reach me: <a href="mailto:paulo.fonseca@udesc.br>paulo dot fonseca dot udesc dot br</a>
+- 📫 How to reach me: [paulo.fonseca@udesc.br](paulo.fonseca@udesc.br)
 <!--
 **pvfonseca/pvfonseca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
