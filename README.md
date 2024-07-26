@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am an adjunct professor of Economics at <a href="https://udesc.org" target="_blank">Santa Catarina State University</a> - Florianópolis 🇧🇷
+I am an adjunct professor of Economics at <a href="https://udesc.br" target="_blank">Santa Catarina State University</a> - Florianópolis 🇧🇷
 
 - 🌱 I'm interested in macroeconomics, monetary/fiscal policy mix, DSGE/HANK models, agent-based modeling
 - 💻 You can read more about me and my work on my <a href="https://pvfonseca.github.io" target="_blank">website</a>
